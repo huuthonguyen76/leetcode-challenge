@@ -1,0 +1,10 @@
+{
+  "cursor.cpp.disabledLanguages": [
+    "python",
+    "jupyter",
+    "typescript",
+    "json",
+    "markdown",
+    "plaintext"
+  ]
+}
